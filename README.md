@@ -1,7 +1,7 @@
-## WebServer Designed By Node
+## WebServer Designed With Node
 
-# Programming Languages: 
--> Javascript
--> Node Environment
-->Express.js
-->HandleBar.js
+### Programming Languages: 
+- Javascript
+- Node Environment
+- Express.js
+- HandleBar.js
